@@ -1,16 +1,15 @@
 bfs1:
-Path cost: X
-Nodes expanded: X
+Path cost: 86.5
+Nodes expanded: 2004
 
 dfs1:
-Path cost: X
-Nodes expanded: X
+Path cost: 837
+Nodes expanded: 1225
 
 gbfs1:
-Path cost: X
-Nodes expanded: X
+Path cost: 93
+Nodes expanded: 103
 
 astar1:
-Path cost: X
-Nodes expanded: X
-
+Path cost: 85
+Nodes expanded: 1728
