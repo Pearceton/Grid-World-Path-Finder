@@ -114,3 +114,8 @@ A*: 85.0 1777
 And then you choose what algorithm to use to plot.
 
 ---
+
+## Example Output
+
+![Grid Plot](exampleplot1.png)
+
